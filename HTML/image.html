@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Image</title>
+	</head>
+	<body>
+		<!-- Usemap creates a map on the image and we can target a particular area of the image -->
+
+		<img src="images/random-image.jpg" alt="image" usemap="#image-map" />
+
+		<map name="image-map">
+			<area
+				target=""
+				alt=""
+				title=""
+				href=""
+				coords="301,121,706,527"
+				shape="rect"
+				onclick="laptop()"
+			/>
+			<area
+				target=""
+				alt=""
+				title=""
+				href=""
+				coords="112,218,284,452"
+				shape="rect"
+				onclick="lens()"
+			/>
+			<area
+				target=""
+				alt=""
+				title=""
+				href=""
+				coords="720,331,905,489"
+				shape="rect"
+				onclick="diary()"
+			/>
+		</map>
+
+		<script>
+			function laptop() {
+				alert('Laptop');
+			}
+			function lens() {
+				alert('lens');
+			}
+			function diary() {
+				alert('diary');
+			}
+		</script>
+	</body>
+</html>
