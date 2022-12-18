@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Flexbox Order</title>
+		<style>
+			.container {
+				display: flex;
+				border: 1px solid #000;
+				height: 500px;
+				justify-content: space-around;
+			}
+			.item {
+				height: 70px;
+				width: 70px;
+				border: 2px solid black;
+				background-color: yellow;
+				margin: 5px;
+			}
+			/* Order is used to change the visual order of the elements by applying some integer values. Lowest value appears first. In the follwing code seven is gonna position at first as it has the lowest order value: -1, and then ten, nine, three and so on. */
+			#one {
+				order: 10;
+			}
+			#two {
+				order: 5;
+			}
+			#three {
+				order: 3;
+			}
+			#four {
+				order: 4;
+			}
+			#five {
+				order: 9;
+			}
+			#six {
+				order: 6;
+			}
+			#seven {
+				order: -1;
+			}
+			#eight {
+				order: 8;
+			}
+			#nine {
+				order: 2;
+			}
+			#ten {
+				order: 1;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="item" id="one">One</div>
+			<div class="item" id="two">Two</div>
+			<div class="item" id="three">Three</div>
+			<div class="item" id="four">Four</div>
+			<div class="item" id="five">Five</div>
+			<div class="item" id="six">Six</div>
+			<div class="item" id="seven">Seven</div>
+			<div class="item" id="eight">Eight</div>
+			<div class="item" id="nine">Nine</div>
+			<div class="item" id="ten">Ten</div>
+		</div>
+	</body>
+</html>

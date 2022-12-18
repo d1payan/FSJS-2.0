@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Flexbox</title>
+		<style>
+			.item {
+				border: 2px solid black;
+				background-color: yellow;
+				margin: 5px;
+				height: 70px;
+				width: 70px;
+				/* margin: 100px; */
+			}
+			/* justify-content align items horizontally and align-items align items vertically. But when flex-direction is column, it reverses. Means then justify-content works vertically and align-items works horizontally. */
+			.container {
+				display: flex;
+				height: 500px;
+				border: 1px solid black;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				flex-wrap: wrap; /* Wrap the items onto multiple lines from top to bottom */
+				/* flex-flow is the shorthand property of flex-direction and flex-wrap */
+				/* flex-flow: row wrap;  */
+				/* align-item aligns a flex container’s lines within when there is extra space in the cross-axis. A single-line flex container will have no effect by the align-content property*/
+				/* align-content: flex-start; */
+			}
+			#three {
+				/* Moves the position based on the integer values (...-2,-1,0,1,2...) */
+				order: 2;
+				flex-grow: 1;
+				/* flex-shrink: ; */
+			}
+			#one {
+				align-self: flex-start;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="item" id="one">One</div>
+			<div class="item">Two</div>
+			<div class="item" id="three">Three</div>
+			<div class="item">Four</div>
+			<div class="item">Five</div>
+		</div>
+	</body>
+</html>
