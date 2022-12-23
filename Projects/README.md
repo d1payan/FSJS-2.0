@@ -5,5 +5,5 @@
 - HTML
 - CSS
 
-### GitHub Link: https://github.com/d1payan/seo-master-webpage
+### [GitHub Link](https://github.com/d1payan/seo-master-webpage)
 ### Live Link: 
