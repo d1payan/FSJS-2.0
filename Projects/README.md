@@ -5,5 +5,5 @@
 - HTML
 - CSS
 
-### :computer: [Code Link](https://github.com/d1payan/seo-master-webpage)
+### :computer: [Repo Link](https://github.com/d1payan/seo-master-webpage)
 ### :rocket: [Live Link](https://seo-master-webpage.netlify.app)
