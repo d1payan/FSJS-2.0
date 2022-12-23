@@ -2,7 +2,7 @@
 
 ## Article 1 - Introduction to Web and HTML
 
-### :pushpin: [Blog Link](https://d1payan.hashnode.dev/introduction-to-web-and-html){:target="\_blank"}
+### :pushpin: [Blog Link](https://d1payan.hashnode.dev/introduction-to-web-and-html)
 
 ## Article 2 - More on HTML Elements
 
