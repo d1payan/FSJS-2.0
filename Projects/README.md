@@ -5,5 +5,5 @@
 - HTML
 - CSS
 
-### [GitHub Link](https://github.com/d1payan/seo-master-webpage)
-### Live Link: 
+### [Code Link](https://github.com/d1payan/seo-master-webpage)
+### :rocket: [Live Link](https://seo-master-webpage.netlify.app)
