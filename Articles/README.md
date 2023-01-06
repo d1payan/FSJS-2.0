@@ -19,3 +19,7 @@
 ## Article 5 - Mastering CSS Grid
 
 ### :pushpin: [Blog Link](https://dipayanbiswas.hashnode.dev/mastering-css-grid)
+
+## Article 6 - CSS Box Model
+
+### :pushpin: [Blog Link](https://dipayanbiswas.hashnode.dev/css-box-model)
