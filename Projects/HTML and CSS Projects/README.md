@@ -65,3 +65,14 @@
 ### :computer: [Code Link](https://github.com/d1payan/justice-webpage)
 
 ### :rocket: [Live Link](https://justice-website.netlify.app)
+
+## Project 7 - Credit Card Landing Page
+
+### Tech Stack
+
+- HTML
+- CSS
+
+### :computer: [Code Link](https://github.com/d1payan/credit-card-landing-page)
+
+### :rocket: [Live Link](https://credit-card-webpage-dipayan.netlify.app)
