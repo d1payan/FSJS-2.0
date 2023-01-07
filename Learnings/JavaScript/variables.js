@@ -6,7 +6,7 @@
 
 var x = 10;
 let y = 'Dipayan'; // Value may change later, means we can assign new value or update the value
-const z = 123456; // Value does not change, means we can't updates its value
+const z = 123456; // Value does not change, means we can't updates its value. And some value must be assigned to the const variable as soon as we declare it.
 
 let firstName = 'Dipayan';
 let lastName = 'Biswas';
