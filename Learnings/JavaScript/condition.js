@@ -26,7 +26,7 @@ switch (user) {
 		console.log("Explore the site, don't give access to anything");
 }
 
-// Ternary Operator
+// Ternary Operator => condition ? true : false
 
 let m = 20;
 let n = 10;
