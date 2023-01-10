@@ -1,78 +1,80 @@
 # HTML and CSS Projects
 
-## Project 1 - SEO Master
+### List of all HTML and CSS assignments given in Full Stack JavaScript Developer Bootcamp 2.0 mentored by [Hitesh Choudhary](https://github.com/hiteshchoudhary) and [Anurag Tiwari](https://github.com/anuragtiwarime).
 
-### Tech Stack
+# :pushpin: Project 1 - SEO Master
 
-- HTML
-- CSS
+## Tech Stack
 
-### :computer: [Code Link](https://github.com/d1payan/seo-master-webpage)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### :rocket: [Live Link](https://seo-master-webpage.netlify.app)
+## :computer: [Code Link](https://github.com/d1payan/seo-master-webpage)
 
-## Project 2 - Crypto Market
+## :rocket: [Live Link](https://seo-master-webpage.netlify.app)
 
-### Tech Stack
+# :pushpin: Project 2 - Crypto Market
 
-- HTML
-- CSS
-
-### :computer: [Code Link](https://github.com/d1payan/crypto-market-webpage)
-
-### :rocket: [Live Link](https://crypto-market-webpage.netlify.app)
-
-## Project 3 - Fashion Hub
-
-### Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
 
-### :computer: [Code Link](https://github.com/d1payan/fashion-hub-webpage)
+## :computer: [Code Link](https://github.com/d1payan/crypto-market-webpage)
 
-### :rocket: [Live Link](https://fashion-hub-webpage.netlify.app)
+## :rocket: [Live Link](https://crypto-market-webpage.netlify.app)
 
-## Project 4 - Calm Website
+# :pushpin: Project 3 - Fashion Hub
 
-### Tech Stack
-
-- HTML
-- CSS
-
-### :computer: [Code Link](https://github.com/d1payan/calm-webpage)
-
-### :rocket: [Live Link](https://calm-webpage.netlify.app)
-
-## Project 5 - Medifine Website
-
-### Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
 
-### :computer: [Code Link](https://github.com/d1payan/medifine-webpage)
+## :computer: [Code Link](https://github.com/d1payan/fashion-hub-webpage)
 
-### :rocket: [Live Link](https://medifine-webpage.netlify.app)
+## :rocket: [Live Link](https://fashion-hub-webpage.netlify.app)
 
-## Project 6 - Justice Website
+# :pushpin: Project 4 - Calm Website
 
-### Tech Stack
-
-- HTML
-- CSS
-
-### :computer: [Code Link](https://github.com/d1payan/justice-webpage)
-
-### :rocket: [Live Link](https://justice-website.netlify.app)
-
-## Project 7 - Credit Card Landing Page
-
-### Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
 
-### :computer: [Code Link](https://github.com/d1payan/credit-card-landing-page)
+## :computer: [Code Link](https://github.com/d1payan/calm-webpage)
 
-### :rocket: [Live Link](https://credit-card-webpage-dipayan.netlify.app)
+## :rocket: [Live Link](https://calm-webpage.netlify.app)
+
+# :pushpin: Project 5 - Medifine Website
+
+## Tech Stack
+
+- HTML
+- CSS
+
+## :computer: [Code Link](https://github.com/d1payan/medifine-webpage)
+
+## :rocket: [Live Link](https://medifine-webpage.netlify.app)
+
+# :pushpin: Project 6 - Justice Website
+
+## Tech Stack
+
+- HTML
+- CSS
+
+## :computer: [Code Link](https://github.com/d1payan/justice-webpage)
+
+## :rocket: [Live Link](https://justice-website.netlify.app)
+
+# :pushpin: Project 7 - Credit Card Landing Page
+
+## Tech Stack
+
+- HTML
+- CSS
+
+## :computer: [Code Link](https://github.com/d1payan/credit-card-landing-page)
+
+## :rocket: [Live Link](https://credit-card-webpage-dipayan.netlify.app)
